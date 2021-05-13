@@ -15,5 +15,5 @@ Enter How many characters do you want it to be. (example would be 16)
 # Output
 ```sh
 How many characters do you want it to be : 16
-F8ykepLgT65HDjEl
+lZc0Rkt?pAd4X!Wq
 ```
