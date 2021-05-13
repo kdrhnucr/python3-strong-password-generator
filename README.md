@@ -1,7 +1,7 @@
 # About Python3 Strong Password Generator v0.1
 An easy to use Python3 package that could perform to strong password generate conveniently.
 # Features
-1 -
+1 - Randomly generates strong passwords.
 # Usage
 Using this scripts is very easy, u only need CMD or Terminal.
 
